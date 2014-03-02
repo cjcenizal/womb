@@ -1,0 +1,15 @@
+{
+  "name": "decomposing-complex-views",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular":           "*",
+    "angular-route":     "*",
+    "angular-animate":   "*",
+    "font-awesome":      "*",
+    "foundation":        "*",
+    "html5-boilerplate": "*",
+    "jquery":            "*",
+    "modernizr":         "*",
+    "underscore":        "*"
+  }
+}

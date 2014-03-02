@@ -1,0 +1,6 @@
+.DS_Store
+.grunt
+dist
+node_modules
+tmp
+vendor/bower
