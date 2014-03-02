@@ -1,5 +1,5 @@
 {
-  "name": "decomposing-complex-views",
+  "name": "grunt-based-starter-project",
   "version": "1.0.0",
   "dependencies": {
     "angular":           "*",

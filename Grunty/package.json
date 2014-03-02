@@ -1,10 +1,6 @@
 {
-  "name": "decomposing-complex-views",
+  "name": "grunt-based-starter-project",
   "version": "1.0.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cjcenizal/complex-view"
-  },
   "devDependencies": {
     "coffee-script": "~1.6.3",
     "grunt": "~0.4.1",
