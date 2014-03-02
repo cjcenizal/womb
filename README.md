@@ -1,3 +1,3 @@
 # Womb
 
-Start apps for fast prototyping.
+Starter projects for fast prototyping.
